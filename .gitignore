@@ -107,9 +107,9 @@ ENV/
 .idea/
 
 # machine Learning logs & models
-/log
-/model
+log/
+model/
 checkpoint
 
 # web-side files
-/renderer
+renderer/
