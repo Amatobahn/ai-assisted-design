@@ -105,3 +105,11 @@ ENV/
 
 # pycharm Idea
 .idea/
+
+# machine Learning logs & models
+/log
+/model
+checkpoint
+
+# web-side files
+/renderer
